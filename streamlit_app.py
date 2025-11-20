@@ -29,8 +29,8 @@ with col1:
         st.subheader("Enter Crate Information")
         
         # Packhouse details
-        farm_name = st.text_input("Packhouse Name*", placeholder="e.g., Nagpur")
-        farm_location = st.text_input("Packhouse Location*", placeholder="e.g., Nagpur, Maharashtra")
+        farm_name = st.text_input("Packhouse Name*", placeholder="e.g., Nagpur", value="Nagpur")
+        farm_location = st.text_input("Packhouse Location*", placeholder="e.g., Nagpur, Maharashtra", value="Nagpur, Maharashtra")
         
         # Orange details
         orange_variety = st.selectbox(
