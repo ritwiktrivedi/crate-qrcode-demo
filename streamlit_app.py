@@ -35,7 +35,7 @@ with col1:
         # Orange details
         orange_variety = st.selectbox(
             "Orange Variety*",
-            ["96 C", "141 C", "171 C", "191 C", "205 C", "225 C", "245 C", "B Grd (191 C)", "B Grd (205 C)"]
+            ["Nagpur Orange", "Blood Orange", "Kinnow"]
         )
         
         if orange_variety == "Other":
@@ -48,7 +48,7 @@ with col1:
         # Quality grade
         quality_grade = st.selectbox(
             "Quality Grade*",
-            ["Premium", "Grade A", "Grade B", "Grade C"]
+            ["96 C", "141 C", "171 C", "191 C", "205 C", "225 C", "245 C", "B Grd (191 C)", "B Grd (205 C)"]
         )
         
         # Harvest date
