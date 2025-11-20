@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# Orange Crate Management System QR Code Demo
 
-A simple Streamlit app template for you to modify!
+This is a simple demo to showcase custom QR code generation capabilities which can be integrated to custom enterprise software.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://crate-qrcode-demo.streamlit.app/)
 
 ### How to run it on your own machine
 
