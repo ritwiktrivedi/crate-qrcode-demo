@@ -175,6 +175,6 @@ Scan QR code for full details
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: gray;'>
-    <p>Orange Crate Management System | Track your harvest efficiently 🍊</p>
+    <p>Orange Crate Management System | Track your fruit inventory efficiently 🍊</p>
 </div>
 """, unsafe_allow_html=True)
