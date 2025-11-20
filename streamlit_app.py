@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("🍊 Orange Crate Management System")
+st.title("🍊 Orange Crate Management System QR Component Demo")
 st.markdown("---")
 
 # Create two columns for layout
