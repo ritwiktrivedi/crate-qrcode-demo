@@ -28,9 +28,9 @@ with col1:
     with st.form("crate_form"):
         st.subheader("Enter Crate Information")
         
-        # Farm details
-        farm_name = st.text_input("Farm Name*", placeholder="e.g., Sunny Valley Orchards")
-        farm_location = st.text_input("Farm Location*", placeholder="e.g., California, USA")
+        # Packhouse details
+        farm_name = st.text_input("Packhouse Name*", placeholder="e.g., Sunny Valley Packhouse")
+        farm_location = st.text_input("Packhouse Location*", placeholder="e.g., California, USA")
         
         # Orange details
         orange_variety = st.selectbox(
